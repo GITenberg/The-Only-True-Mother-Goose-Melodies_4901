@@ -1,5 +1,5 @@
 _repo: The-Only-True-Mother-Goose-Melodies_4901
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Children''s poetry'
 - !lcsh 'Nursery rhymes'
 - !lcc 'PZ'
+- GITenberg
 title: The Only True Mother Goose Melodies
 url: http://www.gutenberg.org/ebooks/4901
